@@ -1,0 +1,27 @@
+{
+	"CertfificationID": "example",
+	"set": "SET1",
+	"UUID": "xxxx",
+	"answer_key": [
+		{
+			"q_no": "Q1",
+			"answer": [ "C" ]
+		},
+		{
+			"q_no": "Q2",
+			"answer": [ "D" ]
+		},
+		{
+			"q_no": "Q3",
+			"answer": [ "A", "C" ]
+		},
+		{
+			"q_no": "Q4",
+			"answer": [ "A", "B", "E" ]
+		},
+		{
+			"q_no": "Q5",
+			"answer": [ "A", "C" ]
+		}
+	]
+}

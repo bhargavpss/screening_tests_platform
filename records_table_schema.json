@@ -1,0 +1,16 @@
+{
+	"EmployeeId" : "String",
+	"CertificationId":"String",
+	"employee_name" : "String",
+	"attempts" : [
+		{
+			"attempt_number":"Integer",
+			"score" : "Integer",
+			"max_score" : "Integer",
+			"result_if_cleared" : "Boolean",
+			"date of exam": "Date"
+		}
+	],
+	"Number of attempts" : "Integer",
+	"Number of successful attemts" : "Integer"
+}

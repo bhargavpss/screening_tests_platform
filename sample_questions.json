@@ -1,0 +1,125 @@
+[
+	{
+		"set" : "SET1",
+		"q_no" : "Q1",
+		"question" : "What does the fox say?",
+		"options": [
+			{
+				"option": "meaow",
+				"key": false
+			},
+			{
+				"option": "bowbow",
+				"key": false
+			},
+			{
+				"option": "owwwwhhh",
+				"key": true
+			},
+			{
+				"option": "meeehh",
+				"key": false
+			}
+		]
+	},
+	{
+		"set" : "SET1",
+		"q_no" : "Q2",
+		"question" : "How many legs does a handicapped snake has?",
+		"options": [
+			{
+				"option": "one",
+				"key": false
+			},
+			{
+				"option": "half",
+				"key": false
+			},
+			{
+				"option": "two",
+				"key": false
+			},
+			{
+				"option": "zero",
+				"key": true
+			}
+		]
+	},
+	{
+		"set" : "SET1",
+		"q_no" : "Q3",
+		"question" : "What does an engineer do after graduation",
+		"options": [
+			{
+				"option": "MBA",
+				"key": true
+			},
+			{
+				"option": "Chai wala",
+				"key": false
+			},
+			{
+				"option": "Job",
+				"key": true
+			},
+			{
+				"option": "Civils",
+				"key": false
+			},
+			{
+				"option": "gangsta",
+				"key": false
+			}
+		]
+	},
+	{
+		"set" : "SET1",
+		"q_no" : "Q4",
+		"question" : "In which of the following movies did Leonardo die?",
+		"options": [
+			{
+				"option": "Blood Diamond",
+				"key": true
+			},
+			{
+				"option": "Titanic",
+				"key": true
+			},
+			{
+				"option": "Wolf of the wall street",
+				"key": false
+			},
+			{
+				"option": "Inception",
+				"key": false
+			},
+			{
+				"option": "The Departed",
+				"key": true
+			}
+		]
+	},
+	{
+		"set" : "SET1",
+		"q_no" : "Q5",
+		"question" : "Which of the following teams never won a one day world cup?",
+		"options": [
+			{
+				"option": "South Africa",
+				"key": true
+			},
+			{
+				"option": "Australia",
+				"key": false
+			},
+			{
+				"option": "England",
+				"key": true
+			},
+			{
+				"option": "West Indies",
+				"key": false
+			}
+		]
+	}
+]
